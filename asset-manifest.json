@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d46cb15c.chunk.css",
-    "main.js": "/static/js/main.5f304972.chunk.js",
-    "main.js.map": "/static/js/main.5f304972.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.203f5734.js",
-    "runtime-main.js.map": "/static/js/runtime-main.203f5734.js.map",
-    "static/js/2.cccd965e.chunk.js": "/static/js/2.cccd965e.chunk.js",
-    "static/js/2.cccd965e.chunk.js.map": "/static/js/2.cccd965e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d2bc8c5c05476684816384622407a1f5.js": "/precache-manifest.d2bc8c5c05476684816384622407a1f5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d46cb15c.chunk.css.map": "/static/css/main.d46cb15c.chunk.css.map",
-    "static/js/2.cccd965e.chunk.js.LICENSE.txt": "/static/js/2.cccd965e.chunk.js.LICENSE.txt"
+    "main.css": "/%20//Abumuazu.github.io/monsters-roladex/static/css/main.2dd2b149.chunk.css",
+    "main.js": "/%20//Abumuazu.github.io/monsters-roladex/static/js/main.eb18d375.chunk.js",
+    "main.js.map": "/%20//Abumuazu.github.io/monsters-roladex/static/js/main.eb18d375.chunk.js.map",
+    "runtime-main.js": "/%20//Abumuazu.github.io/monsters-roladex/static/js/runtime-main.d2a27b2b.js",
+    "runtime-main.js.map": "/%20//Abumuazu.github.io/monsters-roladex/static/js/runtime-main.d2a27b2b.js.map",
+    "static/js/2.cccd965e.chunk.js": "/%20//Abumuazu.github.io/monsters-roladex/static/js/2.cccd965e.chunk.js",
+    "static/js/2.cccd965e.chunk.js.map": "/%20//Abumuazu.github.io/monsters-roladex/static/js/2.cccd965e.chunk.js.map",
+    "index.html": "/%20//Abumuazu.github.io/monsters-roladex/index.html",
+    "precache-manifest.fb548e0bf5e2d00ca9f4efda305c3fa3.js": "/%20//Abumuazu.github.io/monsters-roladex/precache-manifest.fb548e0bf5e2d00ca9f4efda305c3fa3.js",
+    "service-worker.js": "/%20//Abumuazu.github.io/monsters-roladex/service-worker.js",
+    "static/css/main.2dd2b149.chunk.css.map": "/%20//Abumuazu.github.io/monsters-roladex/static/css/main.2dd2b149.chunk.css.map",
+    "static/js/2.cccd965e.chunk.js.LICENSE.txt": "/%20//Abumuazu.github.io/monsters-roladex/static/js/2.cccd965e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.203f5734.js",
+    "static/js/runtime-main.d2a27b2b.js",
     "static/js/2.cccd965e.chunk.js",
-    "static/css/main.d46cb15c.chunk.css",
-    "static/js/main.5f304972.chunk.js"
+    "static/css/main.2dd2b149.chunk.css",
+    "static/js/main.eb18d375.chunk.js"
   ]
 }
